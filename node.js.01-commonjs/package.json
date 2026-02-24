@@ -1,0 +1,13 @@
+{
+  "name": "node.js-01",
+  "version": "1.0.0",
+  "description": "Project to study commonjs modules in node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
